@@ -1,0 +1,34 @@
+---
+title: "Assignment 1 - Interesting R Examples about My Work"
+author: "Eren Demir"
+date: "10/04/2018"
+output: html_document
+---
+
+# Part 1 - RStudio Conference
+
+I found the [Agile data science](https://www.rstudio.com/resources/videos/agile-data-science/) video on RStudio Resources page by searching on twitter hashtags. I found it not interesting but meaningful for me because I've been doing IT consultancy about 8 years and I saw how big firms do wrong things with data because of they are trying do it with their database administrators instead of data professional. I remember that past years, every company was talking about "Big Data" and later same years I've heard a quote that very fits the situation ;
+
+> "Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it...". 
+
+Hopefully, now I see some companies that knows how to do it :)
+
+# Part 2 - About Me And My Work
+
+I work as managing partner a small start-up company called Sekizbit. As Sekizbit, we develop SaaS products for our own company and also we give software development support to other enterprises. My main role at the company is managing it itself on general aspects. Also I personally give technical & business consultancy to some of our customers. 
+
+## 3 Examples of R Application
+
+Actually, both for our own company and to companies that I consult, I'm very interested generating ideas on databases that we/they have. However, my knowledge about data processing is/was very limited. Sometimes we have created tools to analyze some data with other programming languages. However, now I see that how this operations are simple with R. Rather than giving external examples, I'm now thinking of 3 project that we can do. I'll try to explain them but I'll need to stay in our customers non-disclosure agreements so that I might not be giving some details.
+
++ ## Project 1 - Finding good betting decisions
+One of our customers has a web site and mobile application that allows users to share their betting decisions on soccer and basketball. The have more than 100.000 user generated betting decisions on their database. Now we are considering about determine which users are more successful in what kind of games. For example user A might shared 100 decisions on the platform and 30 of them won. However, if we can create a model that determines users success on specific categories (Like User A is more successful on Bundesliga Football when he plays on game result as Draw), on later decision shares we can successfully pick the best decisions on the pool and create offered coupons.
+
++ ## Project 2 - Finding customers willing to buy based on our CRM data
+For our SaaS applications we have a CRM that we record every transaction of demo customers. After that our sales team contacts this candidates and try to finish the sale. I'm know thinking to create clusters to calculate how much they are willing to buy depending on other customers sales percents that are in the same cluster.
+
++ ## Project 3 - Promoting undervalued Real Estates 
+I've been consulting one the biggest real estate listing platforms in Turkey. A project can be crated that determines a real estate price is lower than it is expected to be in the same cluster that it belongs to. So that this realestate can be promoted as "Investing opportunity" on the web site. 
+
+
+
